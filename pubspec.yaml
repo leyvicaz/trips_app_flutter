@@ -66,3 +66,17 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.io/custom-fonts/#from-packages
+  assets:
+    - assets/img/people.jpeg
+    - assets/img/image1.jpeg
+    - assets/img/image2.jpeg
+    - assets/img/slider/paisaje1.jpeg
+    - assets/img/slider/paisaje2.jpeg
+    - assets/img/slider/paisaje3.jpeg
+    - assets/img/slider/paisaje4.jpeg
+    - assets/img/slider/paisaje5.jpeg
+
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: fonts/Lato-Regular.ttf
